@@ -1,0 +1,17 @@
++ Javascript est sensible à la casse
++ Types js : 	(let nomVariable = 0	=> la définition du type est automatique)
+	+ Number
+	+ String	"test" ou 'test'
+	+ Boolean
+	+ Object
+	+ Undefined : variable déclaré mais n'est pas initialisé , (ne contient aucune valeur)
+	+ null : variable déclaré mais contient la valeur null
+
+- Number :
+	+ , - , / , * , **( puissance ) , %
+	B I D M A S => (brackets , indices , division , multiplication , addition , substraction)
+	incrementation , décrementation (i++ , i +=4 )
+	console.log(100 * 'fhfh') => NaN(not a number)		, 	variable with undefined value + 1 => NaN
+
++ Comparaison des string (convertir chaque lettre de cette chaine en code asci)
++ Methode est une fonction déclarée dans une classe
